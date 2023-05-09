@@ -1,0 +1,14 @@
+{
+  "name": "er",
+  "version": "1.0.0",
+  "description": "er",
+  "main": "exercice_14.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exo"
+  ],
+  "author": "JeF",
+  "license": "ISC"
+}
